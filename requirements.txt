@@ -2,3 +2,4 @@ datasets
 transformers[sentencepiece] 
 sacrebleu 
 accelerate
+numpy
